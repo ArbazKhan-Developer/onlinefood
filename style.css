@@ -96,7 +96,7 @@ html{
 #home::before{
     content: "";
     position: absolute;
-    background: url('./food website/bg1.jpg' );
+    background: url('../food website/bg1.jpg' );
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -122,11 +122,13 @@ height: 600px;
    border-radius: 20px;
    height: 250px;
    width: 30vw;
-   
+   background-color: red;
 }
 #serve1 .box img{
    
-    margin-left: 50px;
+    margin-left: 90px;
+    height: 150px;
+    width: 200px;
 
 }
 /* #services::before{
@@ -149,11 +151,12 @@ height: 600px;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: red;
+    color:white;
 }
 
 #services p{
-    font-size: 1.15rem;
+    margin-top: 10px;
+    font-size: 1rem;
 }
 
 .ser{
@@ -171,7 +174,7 @@ height: 600px;
 #about::before{
     content: "";
     position: absolute;
-    background: url('./food website/7.jpg' );
+    background: url('../food website/7.jpg' );
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -239,7 +242,7 @@ font-size: 1.3rem;
 #contact::before{
     content: "";
     position: absolute;
-    background: url('./food website/6.jpg' );
+    background: url('../food website/6.jpg' );
     height: 100%;
     width: 100%;
     z-index: -1;
