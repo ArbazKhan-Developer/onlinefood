@@ -96,7 +96,7 @@ html{
 #home::before{
     content: "";
     position: absolute;
-    background: url('../food website/bg1.jpg' );
+    background: url('./food website/bg1.jpg' );
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -171,7 +171,7 @@ height: 600px;
 #about::before{
     content: "";
     position: absolute;
-    background: url('../food website/7.jpg' );
+    background: url('./food website/7.jpg' );
     height: 100%;
     width: 100%;
     z-index: -1;
@@ -239,7 +239,7 @@ font-size: 1.3rem;
 #contact::before{
     content: "";
     position: absolute;
-    background: url('../food website/6.jpg' );
+    background: url('./food website/6.jpg' );
     height: 100%;
     width: 100%;
     z-index: -1;
